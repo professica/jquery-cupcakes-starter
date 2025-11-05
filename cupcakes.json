@@ -1,7 +1,7 @@
 [
   {
     "name": "Bubble Gum Pop",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/bubbleGumPopCupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/bubbleGumPopCupcake.png?raw=true",
     "alt": "Pink cupcake covered in sprinkles and topped with a sugar orb",
     "ingredients": "Flour, Salt, Baking Powder, Butter, extra-fine Sugar, Eggs, Milk, Vanilla Extract, food-coloring, artificial flavoring",
     "frosting": "Buttercream",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Candy Corn",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/candycornCupake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/candycornCupake.png?raw=true",
     "alt": "orange and yellow cupcake frosted in white with sprinkles and a piece of candy corn on top",
     "ingredients": "Flour, Salt, Baking Powder, Butter, Sugar, Eggs, Milk, Vanilla Extract, food-coloring, artificial flavoring",
     "frosting": "Buttercream",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Chocolate Mint Cookie",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/chocolateMintCookieCupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/chocolateMintCookieCupcake.png?raw=true",
     "alt": "Chocolate cupcakes with mint green icing and half a chocolate dipped cookie on top",
     "ingredients": "Flour, Salt, Baking Powder, Butter, Sugar, Eggs, Milk, Vanilla Extract, Cocoa powder, peppermint extract",
     "frosting": "Buttercream Mint",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Cotton Candy",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/cottonCandyCupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/cottonCandyCupcake.png?raw=true",
     "alt": "White cupcakes frosted in light green icing with pink sprinkles",
     "ingredients": "Flour, Salt, Baking Powder, Butter, extra-fine Sugar, Eggs, Milk, Vanilla Extract",
     "frosting": "Buttercream",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Death By Chocolate",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/deathByChocolateCupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/deathByChocolateCupcake.png?raw=true",
     "alt": "Chocolate cupcakes with chocolate icing. The center cupcake has a lit sparkler in it",
     "ingredients": "Flour, Salt, Baking Powder, Butter, Sugar, Eggs, Milk, Vanilla Extract, Cocoa powder",
     "frosting": "Chocolate Buttercream",
@@ -61,7 +61,7 @@
   },
   {
     "name": "Key Lime",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/keyLimeCupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/keyLimeCupcake.png?raw=true",
     "alt": "Lime cupcakes frosted in white icing with graham cracker crumbs around the middle and a thin slice of lime on top",
     "ingredients": "Flour, Salt, Baking Powder, Butter, Sugar, Eggs, Milk, Vanilla Extract, Key Lime Juice",
     "frosting": "Buttercream",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Mermaid Sparkle",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/mermaidSparklecupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/mermaidSparklecupcake.png?raw=true",
     "alt": "Pink and blue cupcake frosted in light blue icing with rainbow sprinkles and a sculpted, shimmering fondant mermaid tail on top",
     "ingredients": "Flour, Salt, Baking Powder, Butter, extra-fine Sugar, Eggs, Milk, Vanilla Extract, food-coloring",
     "frosting": "Buttercream",
@@ -85,7 +85,7 @@
   },
   {
     "name": "Red Velvet",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/redVelvetCupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/redVelvetCupcake.png?raw=true",
     "alt" : "Red cupcake frosted with white frosting and sprinkled with red cake crumbs",
     "ingredients": "Flour, Salt, Baking Powder, Butter, Sugar, Eggs, Milk, Vanilla Extract, Cocoa powder, red food coloring",
     "frosting": "Cream Cheese",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Strawberry",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/strawberryCupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/strawberryCupcake.png?raw=true",
     "alt": "Red and white cupcake frosted in white and covered in blueberries and sliced strawberries",
     "ingredients": "Flour, Salt, Baking Powder, Butter, Sugar, Eggs, Milk, Vanilla Extract, Strawberry Puree, Fresh Strawberries",
     "frosting": "Strawberry Buttercream",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Toasty S'Mores",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/toastySmorescupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/toastySmorescupcake.png?raw=true",
     "alt": "Chocolate cupcake topped with a toasted marshmallow frosting and topped with a small piece of chocolate",
     "ingredients": "Flour, Salt, Baking Powder, Butter, Sugar, Eggs, Milk, Vanilla Extract, ginger, cinnamon, cocoa powder",
     "frosting": "Marshmallow",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Vanilla Bean Dream",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/vanillaBeanDream.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/vanillaBeanDream.png?raw=true",
     "alt": "Golden brown cupcake topped with pink frosting and a darker pink fondant rose in a blue and pink rose wrapper",
     "ingredients": "Flour, Salt, Baking Powder, Butter, Sugar, Eggs, Milk, Vanilla Extract",
     "frosting": "Buttercream",
@@ -133,7 +133,7 @@
   },
   {
     "name": "Victorian Rose",
-    "image": "https://www.public.asu.edu/~jlbarn11/GIT414/images/victorianRoseCupcake.png",
+    "image": "https://github.com/jlbarn11/assets/blob/main/git414/victorianRoseCupcake.png?raw=true",
     "alt": "White cupcake topped with frosting flecked with vanilla beans and covered in small rainbow nonpareils",
     "ingredients": "Flour, Salt, Baking Powder, Butter, extra-fine Sugar, Eggs, Milk, Vanilla Extract, food-coloring, Rose Extract",
     "frosting": "Rose Buttercream",
